@@ -1,0 +1,11 @@
+restart_file: .na
+start_day_local: '2021-04-01'
+start_time_local: '00:00:00'
+end_day_local: .na
+forecast_start_day_local: '2021-04-02'
+forecast_horizon: 16
+forecast_project_id: PRLA_forecasts
+sim_name: PRLA_forecasts
+forecast_sss_on: no
+forecast_location: /Users/ryanmcclure/Documents/PRLA-forecast/glm
+execute_location: /Users/ryanmcclure/Documents/PRLA-forecast/wd
